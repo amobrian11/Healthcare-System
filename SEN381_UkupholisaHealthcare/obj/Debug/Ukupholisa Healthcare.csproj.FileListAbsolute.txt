@@ -1,0 +1,16 @@
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\bin\Debug\Ukupholisa Healthcare.exe.config
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\bin\Debug\Ukupholisa Healthcare.exe
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\bin\Debug\Ukupholisa Healthcare.pdb
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa Healthcare.csproj.AssemblyReference.cache
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.ClaimForm.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.ClientMaintenanceForm.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.InitialForm.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.MedicalDepartmentForm.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.PolicyMaintenanceForm.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.ProductMaintenanceForm.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.Properties.Resources.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa_Healthcare.ProviderManagementForm.resources
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa Healthcare.csproj.GenerateResource.cache
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa Healthcare.exe
+C:\Users\Jaco's Laptop\Source\Repos\At-tricks\SEN381_UkupholisaHealthcare\obj\Debug\Ukupholisa Healthcare.pdb
