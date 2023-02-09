@@ -1,4 +1,4 @@
-This folder contains the application source code as well as the database script.
+This project contains the application source code as well as the database script.
 To create the the database locally, open the database script in MS SQL server management studio
 and execute the scrip.
 Once the script has been executed, refresh the databases.
